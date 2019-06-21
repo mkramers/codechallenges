@@ -6,7 +6,7 @@ namespace Challenges.Easy
     /// <summary>
     ///     https://www.reddit.com/r/dailyprogrammer/comments/bqy1cf/20190520_challenge_378_easy_the_havelhakimi/
     /// </summary>
-    public class HavelHakimiAlgorithm
+    public static class HavelHakimiAlgorithm
     {
         public static bool IsEveryoneTellingTheTruth(IEnumerable<int> _answers)
         {
