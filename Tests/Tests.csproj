@@ -14,7 +14,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Challenges\Challenges.csproj" />
-    <ProjectReference Include="..\RecursiveStaircaseProblem\Challenges.csproj" />
   </ItemGroup>
 
 </Project>
